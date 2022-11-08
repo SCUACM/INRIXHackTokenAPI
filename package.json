@@ -1,0 +1,22 @@
+{
+  "name": "inrixhacktokenapi",
+  "version": "1.0.0",
+  "description": "A Sample Express.js REST API that acts as a get token proxy",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCUACM/INRIXHackTokenAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCUACM/INRIXHackTokenAPI/issues"
+  },
+  "homepage": "https://github.com/SCUACM/INRIXHackTokenAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.1"
+  }
+}
