@@ -7,6 +7,8 @@ Instructions for use:
 
 -Clone repo
 
+-Install Node if you don't already have it. Instructions: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
 -In app.js, alter the AppId and HashToken variables to be your personal AppId and HashToken generated on this site https://iq.inrix.com/developer/key-management after creating a key.
 
 -In terminal, navigate to the directory you cloned this repo into
